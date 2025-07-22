@@ -1,4 +1,4 @@
-# 📊 Challenge      Telecom-X---An-lisis-de-Evasi-n-de-Clientes
+# 📊 Challenge - Telecom X Análisis de Evasión de Clientes
 
 Este proyecto tiene como objetivo analizar los factores que influyen en la **evasión de clientes** en la empresa ficticia **Telecom X**. El análisis permite extraer insights clave para desarrollar estrategias de retención y preparar modelos predictivos que identifiquen a clientes en riesgo de cancelar el servicio.
 
@@ -65,7 +65,7 @@ pip install pandas seaborn matplotlib notebook
 jupyter notebook TelecomX_Analisis_Churn.ipynb
 ```
 
-### 🧠 3. Visual Studio Code (con Jupyter extension)
+### 🧠 3. Visual Studio Code (con Jupyter extensión)
 
 - Instala la extensión "Jupyter" en VS Code.
 - Abre el archivo `.ipynb` directamente y ejecuta las celdas.
